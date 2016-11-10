@@ -1,12 +1,23 @@
 h1  {
       text-align: center;
       color: #620b0b;
-      font-family:"Angelina", sans-serif;
+      font-family:"Noteworthy", sans-serif;
+      font-weight: normal;;
+}
+
+h2{
+  font-family: "Actor", sans-serif;
+  font-weight:normal;
+}
+
+h3{
+  font-family: "Actor" , sans-serif;
 }
 
 .my-nav{
   background-color: grey;
   text-align: center;
+
 }
 
 .nav-menu{
