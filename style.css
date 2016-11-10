@@ -1,0 +1,22 @@
+h1  {
+      text-align: center;
+      color: #620b0b;
+      font-family:"Angelina", sans-serif;
+}
+
+.my-nav{
+  background-color: grey;
+  text-align: center;
+}
+
+.nav-menu{
+  min-width: 300px;
+  list-style: none;
+  padding-left: 0px;
+}
+
+.nav-menu li{
+  display: inline;
+  margin-left: 20px;
+  margin-right: 20px;
+}
